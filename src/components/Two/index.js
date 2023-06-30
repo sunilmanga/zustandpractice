@@ -1,5 +1,5 @@
 import { useRef,useEffect } from "react";
-import zus from "../../store/zus";
+import zus from "../../store/zus"
 
 const Two = () => {
     const data=useRef('')
